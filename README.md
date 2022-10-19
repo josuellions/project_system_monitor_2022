@@ -10,13 +10,14 @@ Projeto em desenvolvimento inicial - React, TypeScript, Storybook, JEST,  WebSok
 
 
 ## View Storybook - Components - Heading
-- Ajuste do tanhamo da letra 
+- Ajuste do tanhamo da letra na view do storybook
 ![image](https://user-images.githubusercontent.com/28610102/196672476-748e5451-3cd5-4470-b6ce-206e0d7f5ac4.png)
 
 
 ## Storybook - Documentação do compontent
---Text
+- Heading Text
 ![image](https://user-images.githubusercontent.com/28610102/196672775-d908520b-cfdb-4230-bada-f64fbd71a95c.png)
 
--- Input
-![image](https://user-images.githubusercontent.com/28610102/196672946-42f2d1e9-b2a6-4c81-9cdf-a7cfd63e6eca.png)
+- Input
+![image](https://user-images.githubusercontent.com/28610102/196673802-41b15fd2-e881-42fd-8ba0-33c8f8b7b5bc.png)
+
